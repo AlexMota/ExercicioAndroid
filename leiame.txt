@@ -1,3 +1,4 @@
 1 - Criado o projeto Android.
 2 - AVD criado e aplicativo executado no emulador.
 3 - Interface contruida com uma caixa de texto e um botão.
+4 - Nova Activity criada e relacionada com Activity principal.
