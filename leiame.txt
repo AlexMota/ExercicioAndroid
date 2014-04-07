@@ -1,1 +1,2 @@
 1 - Criado o projeto Android.
+2 - AVD criado e aplicativo executado no emulador.
